@@ -1,5 +1,6 @@
 [
   {
+    "id": "makkah",
     "title": "Makkah",
     "lat": 21.3891,
     "lng": 39.8579,
@@ -22,6 +23,7 @@
     ]
   },
   {
+    "id": "madinah",
     "title": "Madinah",
     "lat": 24.5247,
     "lng": 39.5692,
