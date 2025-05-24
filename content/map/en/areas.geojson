@@ -4,6 +4,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "old-makkah",
         "name": "Old Makkah",
         "description": "Approximate area of Makkah during the Prophet's early life",
         "color": "#FF5733"
