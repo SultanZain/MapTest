@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Makkah",
+        "description": "Approximate area of Makkah during the Prophet's early life",
+        "color": "#FF5733"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              39.81603779546484,
+              21.427873511081216
+            ],
+            [
+              39.81603779546484,
+              21.408594238912997
+            ],
+            [
+              39.839155596736504,
+              21.408594238912997
+            ],
+            [
+              39.839155596736504,
+              21.427873511081216
+            ],
+            [
+              39.81603779546484,
+              21.427873511081216
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      }
+    }
+  ]
+}
