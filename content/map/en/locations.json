@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Makkah",
+    "lat": 21.3891,
+    "lng": 39.8579,
+    "icon": "images/makkah.png",
+    "events": [
+      {
+        "title": "پیغمبر ﷺ کی پیدائش",
+        "location": "At house of Abu Talib, District of Bani Hashim",
+        "age": "0",
+        "year": 570,
+        "eventId" : 1
+      },
+      {
+        "title": "وحی کا آغاز",
+        "location": "Cave of Hira, 27 km away from Ka`ba",
+        "age": "40",
+        "year": 610,
+        "eventId": 1
+      }
+    ]
+  },
+  {
+    "title": "Madinah",
+    "lat": 24.5247,
+    "lng": 39.5692,
+    "icon": "images/madinah.png",
+    "events": [
+      {
+        "title": "ہجرت مدینہ",
+        "location": "from makkah to madinah",
+        "age": "Almost 53",
+        "year": 622,
+        "eventId": 1
+      }
+    ]
+  }
+]
