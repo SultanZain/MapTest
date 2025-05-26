@@ -4,8 +4,202 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mecca",
-        "popupContent": "The Holy City Mecca, Where Ka`ba-tul-Allah is located and the Prophet Muhammad S.A.W was born."
+        "id": "makkah",
+        "title": "Makkah",
+        "name": "Makkah",
+        "marker": "Makkah.ico",
+        "popupContent": "The Holy City Mecca, Where Ka`ba-tul-Allah is located and the Prophet Muhammad S.A.W was born.",
+        "events": [
+          {
+            "title": "THE BIRTH OF THE BEST OF CREATION, OUR PROPHET MUHAMMAD, AL-MUSTAFA ﷺ",
+            "location": "Mecca",
+            "age": "0",
+            "year": 571,
+            "eventId": 1
+          },
+          {
+            "title": "THE PROPHET’S ﷺ CHEST IS SPLIT OPEN",
+            "location": "Makkah",
+            "age": "~4",
+            "year": 575,
+            "eventId": 1
+          },
+          {
+            "title": "THE DEATH OF THE MOTHER OF THE PROPHET ﷺ AAMINAH BINT WAHB, AND SUCKLING AT THE HANDS OF UMM AYMAN, HIS WET NURSE",
+            "location": "Between Mecca and Medina (near the territory of the tribe of al-Naabighah)",
+            "age": "~6",
+            "year": 576,
+            "eventId": 1
+          },
+          {
+            "title": "THE PROPHET ﷺ IN THE CARE OF HIS GRANDFATHER ABDUL-MUTALLIB",
+            "location": "Makkah",
+            "age": "~6",
+            "year": 576,
+            "eventId": 2
+          },
+          {
+            "title": "DEATH OF ABD AL-MUTALLIB (GRANDFATHER OF THE PROPHET ﷺ)",
+            "location": "Mecca",
+            "age": "~8",
+            "year": 578,
+            "eventId": 1
+          },
+          {
+            "title": "THE PROPHET ﷺ UNDER THE WING OF HIS UNCLE ABOO TAALIB",
+            "location": "Makkah",
+            "age": "~8",
+            "year": 578,
+            "eventId": 2
+          },
+          {
+            "title": "THE SACRILEGIOUS WAR (AL-FIJAAR)",
+            "location": "Near Makkah (various locations including ‘Ukaazh)",
+            "age": "~14-15 (some reports say ~20)",
+            "year": 585,
+            "eventId": 1
+          },
+          {
+            "title": "THE OATH OF THE RIGHTEOUS (HILF AL-FUDOOL)",
+            "location": "Makkah",
+            "age": "~25",
+            "year": 591,
+            "eventId": 1
+          },
+          {
+            "title": "The Marriage of the Prophet Muhammad ﷺ to Khadijah bint Khuwaylid (May Allah be pleased with her)",
+            "location": "Makkah",
+            "age": "Differing accounts (~25-30)",
+            "year": 595,
+            "eventId": 1
+          },
+          {
+            "title": "The Prophet Muhammad ﷺ Places the Black Stone in its Place in the Ka'bah",
+            "location": "Makkah",
+            "age": "~35",
+            "year": 605,
+            "eventId": 1
+          },
+          {
+            "title": "The First Revelation and the Prophethood of the Prophet Muhammad ﷺ",
+            "location": "Cave of Hira', Makkah",
+            "age": "~40",
+            "year": 610,
+            "eventId": 1
+          },
+          {
+            "title": "The Cessation of Revelation (Fatra) and the Revelation of Surah Ad-Duha",
+            "location": "Makkah",
+            "age": "~40",
+            "year": 610,
+            "eventId": 2
+          },
+          {
+            "title": "The First People to Believe in Allah and His Messenger ﷺ",
+            "location": "Makkah",
+            "age": "~40 (at the time of the first believers)",
+            "year": 610,
+            "eventId": 3
+          },
+          {
+            "title": "The Persecution of the Companions by the Quraysh in the Early Days of Islam",
+            "location": "Mecca",
+            "age": "~ 44",
+            "year": 613,
+            "eventId": 1
+          },
+          {
+            "title": "Quraysh Asks Abu Talib to Stop the Messenger of Allah ﷺ",
+            "location": "Mecca",
+            "age": "~ 44",
+            "year": 613,
+            "eventId": 2
+          },
+          {
+            "title": "The Islam of Hamza ibn Abd al-Muttalib (may Allah be pleased with him)",
+            "location": "Mecca",
+            "age": "~ 46",
+            "year": 615,
+            "eventId": 2
+          },
+          {
+            "title": "The Islam of Umar (may Allah be pleased with him)",
+            "location": "Mecca",
+            "age": "46",
+            "year": 616,
+            "eventId": 1
+          },
+          {
+            "title": "The Islam of At-Tufail ibn Amr Ad-Dausi (may Allah be pleased with him)",
+            "location": "Mecca",
+            "age": "47",
+            "year": 616,
+            "eventId": 2
+          },
+          {
+            "title": "The Siege of Quraysh on the Muslims in Shi'b Abi Talib",
+            "location": "Shi'b Abi Talib, Mecca",
+            "age": "47",
+            "year": 616,
+            "eventId": 3
+          },
+          {
+            "title": "Quraysh Annuls the Document of Boycott",
+            "location": "Shi'b Abi Talib, Mecca",
+            "age": "49",
+            "year": 619,
+            "eventId": 1
+          },
+          {
+            "title": "The Death of Umm al-Mu'minin Khadijah bint Khuwaylid (may Allah be pleased with her)",
+            "location": "Mecca",
+            "age": "50",
+            "year": 620,
+            "eventId": 1
+          },
+          {
+            "title": "The Prophet's ﷺ Journey to Ta'if",
+            "location": "Ta'if, Mecca",
+            "age": "50",
+            "year": 620,
+            "eventId": 2
+          },
+          {
+            "title": "The Islam of the Jinn and Their Arrival to the Prophet ﷺ",
+            "location": "Nakhlah, Mecca",
+            "age": "50",
+            "year": 620,
+            "eventId": 3
+          },
+          {
+            "title": "The Death of Abu Talib, the Prophet's ﷺ Uncle",
+            "location": "Mecca",
+            "age": "50",
+            "year": 620,
+            "eventId": 4
+          },
+          {
+            "title": "The Prophet's ﷺ Marriage to Sawdah bint Zam'ah (may Allah be pleased with her)",
+            "location": "Mecca",
+            "age": "50",
+            "year": 620,
+            "eventId": 5
+          },
+          {
+            "title": "The Beginning of the Ansar's Entry into Islam",
+            "location": "Mecca",
+            "age": "50",
+            "year": 620,
+            "eventId": 6
+          },
+          {
+            "title": "The Prophet's ﷺ Marriage to Aisha bint Abu Bakr As-Siddiq (may Allah be pleased with them both)",
+            "location": "Mecca (Marriage Contract)",
+            "age": "50",
+            "year": 620,
+            "eventId": 7
+          }
+        ]
       },
       "geometry": {
         "coordinates": [
@@ -19,6 +213,7 @@
       "type": "Feature",
       "properties": {
         "name": "Shu'aybah",
+        "year": "613",
         "popupContent": "Shu'aybah (An ancient Port Before Jeddah)"
       },
       "geometry": {
@@ -33,6 +228,7 @@
       "type": "Feature",
       "properties": {
         "name": "Adulis",
+        "year": "613",
         "popupContent": "The Ancient Adulis (Modern Day Ruins found in Zula)"
       },
       "geometry": {
@@ -47,6 +243,7 @@
       "type": "Feature",
       "properties": {
         "name": "Aksum",
+        "year": "613",
         "popupContent": "Aksum now a small town, once used to be the capital of Abyssinia (The Kingdom of Aksum)"
       },
       "geometry": {
@@ -62,6 +259,7 @@
       "properties": {
         "name": "First Hijrah Route",
         "stroke": "#8b4513",
+        "year": "613",
         "stroke-width": 4,
         "popupContent": "Ibn Sa'ad, in his Kitab Tabqaat al-Kubra, briefly mentions the route taken by the Muslim migrants. Ibn Sa'ad says on the authority of Harith ibn al-Fudail that the group boarded one of the two merchant ships from Shuaiba (Yaqut says it was the place where ships (marfa') used to beach for Mecca in the days before Jidda became its port), and paid half Dinar (دينار) each for faring them across the sea.",
         "References": [
