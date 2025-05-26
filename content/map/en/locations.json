@@ -4,7 +4,7 @@
     "title": "Makkah",
     "lat": 21.3891,
     "lng": 39.8579,
-    "icon": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/Makkah.png",
+    "icon": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/Makkah.ico",
     "events": [
     {
       "title": "THE BIRTH OF THE BEST OF CREATION, OUR PROPHET MUHAMMAD, AL-MUSTAFA ﷺ",
@@ -202,7 +202,7 @@
     "title": "Madinah",
     "lat": 24.5247,
     "lng": 39.5692,
-    "icon": "images/madinah.png",
+    "icon": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/Madinah.ico",
     "events": [
       {
         "title": "ہجرت مدینہ",
