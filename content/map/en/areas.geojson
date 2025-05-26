@@ -59,11 +59,12 @@
     },
     {
       "type": "Feature",
-      "properties": {}
+      "properties": {
         "name": "First Hijrah Route",
         "stroke": "#ff0000",
         "stroke-width": 2,
-        "popupContent": "Route of the first migration to Abyssinia",
+        "popupContent": "Route of the first migration to Abyssinia"
+      },
       "geometry": {
         "coordinates": [
           [
