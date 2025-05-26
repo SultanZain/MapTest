@@ -212,7 +212,9 @@
     {
       "type": "Feature",
       "properties": {
+        "id":"shuaybah"
         "name": "Shu'aybah",
+        "title": "Shu'aybah",
         "year": "613",
         "popupContent": "Shu'aybah (An ancient Port Before Jeddah)"
       },
@@ -227,7 +229,9 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "adulis",
         "name": "Adulis",
+        "title": "Adulis",
         "year": "613",
         "popupContent": "The Ancient Adulis (Modern Day Ruins found in Zula)"
       },
@@ -242,6 +246,7 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "Adulis",
         "name": "Aksum",
         "year": "613",
         "popupContent": "Aksum now a small town, once used to be the capital of Abyssinia (The Kingdom of Aksum)"
