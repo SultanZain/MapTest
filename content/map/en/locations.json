@@ -4,7 +4,7 @@
     "title": "Makkah",
     "lat": 21.3891,
     "lng": 39.8579,
-    "icon": "images/makkah.png",
+    "icon": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/Makkah.png",
     "events": [
     {
       "title": "THE BIRTH OF THE BEST OF CREATION, OUR PROPHET MUHAMMAD, AL-MUSTAFA ﷺ",
