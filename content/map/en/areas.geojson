@@ -8,99 +8,82 @@
         "popupContent": "Mecca"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           39.8262,
           21.4225
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Medina",
-        "popupContent": "Medina"
+        "name": "Shu'aybah",
+        "popupContent": "Shu'aybah (An ancient Port Before Jeddah)"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          39.6122,
-          24.4709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Marib (Sheba)",
-        "popupContent": "Marib, the heartland of the Sabaean civilization"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          45.335904,
-          15.427136
-        ]
+          39.5365,
+          20.6887
+        ],
+        "type": "Point"
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Adulis",
-        "popupContent": "Adulis"
+        "popupContent": "The Ancient Adulis (Modern Day Ruins found in Zula)"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          39.6594,
+          39.6606,
           15.2636
-        ]
+        ],
+        "type": "Point"
       }
     },
-        {
+    {
       "type": "Feature",
       "properties": {
         "name": "Aksum",
         "popupContent": "Aksum"
       },
       "geometry": {
-        "type": "Point",
         "coordinates": [
           38.7234,
           14.1211
-        ]
+        ],
+        "type": "Point"
       }
     },
     {
       "type": "Feature",
-      "properties": {
+      "properties": {}
         "name": "First Hijrah Route",
         "stroke": "#ff0000",
         "stroke-width": 2,
-        "popupContent": "Route of the first migration to Abyssinia"
-      },
+        "popupContent": "Route of the first migration to Abyssinia",
       "geometry": {
-        "type": "LineString",
         "coordinates": [
-          [39.8262, 21.4225],
-          [39.6594, 15.2636]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Second Hijrah Route",
-        "stroke": "#00ff00",
-        "stroke-width": 2,
-        "popupContent": "Route of the second migration to Abyssinia"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [39.8262, 21.4225],
-          [39.6594, 15.2636]
-        ]
+          [
+            39.8262,
+            21.4225
+          ],
+          [
+            39.5365,
+            20.6887
+          ],
+          [
+            39.6606,
+            15.2636
+          ],
+          [
+            38.7234,
+            14.1211
+          ]
+        ],
+        "type": "LineString"
       }
     }
   ]
