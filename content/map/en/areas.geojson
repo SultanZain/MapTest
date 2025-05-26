@@ -215,7 +215,7 @@
         "id": "shuaybah",
         "name": "Shu'aybah",
         "title": "Shu'aybah",
-        "year": "613",
+        "year": 613,
         "popupContent": "Shu'aybah (An ancient Port Before Jeddah)"
       },
       "geometry": {
@@ -232,7 +232,7 @@
         "id": "adulis",
         "name": "Adulis",
         "title": "Adulis",
-        "year": "613",
+        "year": 613,
         "popupContent": "The Ancient Adulis (Modern Day Ruins found in Zula)"
       },
       "geometry": {
@@ -248,7 +248,7 @@
       "properties": {
         "id": "Adulis",
         "name": "Aksum",
-        "year": "613",
+        "year": 613,
         "popupContent": "Aksum now a small town, once used to be the capital of Abyssinia (The Kingdom of Aksum)"
       },
       "geometry": {
@@ -264,7 +264,7 @@
       "properties": {
         "name": "First Hijrah Route",
         "stroke": "#8b4513",
-        "year": "613",
+        "year": 613,
         "stroke-width": 4,
         "popupContent": "Ibn Sa'ad, in his Kitab Tabqaat al-Kubra, briefly mentions the route taken by the Muslim migrants. Ibn Sa'ad says on the authority of Harith ibn al-Fudail that the group boarded one of the two merchant ships from Shuaiba (Yaqut says it was the place where ships (marfa') used to beach for Mecca in the days before Jidda became its port), and paid half Dinar (دينار) each for faring them across the sea.",
         "References": [
