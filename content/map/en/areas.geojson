@@ -4,38 +4,101 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Old Makkah Boundary",
-        "fill": "#3b82f6",
-        "fill-opacity": "0.2",
-        "stroke": "#2563eb",
+        "name": "Mecca",
+        "popupContent": "Mecca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.8262,
+          21.4225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medina",
+        "popupContent": "Medina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6122,
+          24.4709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adulis",
+        "popupContent": "Adulis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.6594,
+          15.2636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aksum",
+        "popupContent": "Aksum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7234,
+          14.1211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sheba",
+        "popupContent": "Sheba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.1664,
+          -25.7167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "First Hijrah Route",
+        "stroke": "#ff0000",
         "stroke-width": 2
       },
       "geometry": {
+        "type": "LineString",
         "coordinates": [
-          [
-            [
-              39.81603779546484,
-              21.427873511081216
-            ],
-            [
-              39.81603779546484,
-              21.408594238912997
-            ],
-            [
-              39.839155596736504,
-              21.408594238912997
-            ],
-            [
-              39.839155596736504,
-              21.427873511081216
-            ],
-            [
-              39.81603779546484,
-              21.427873511081216
-            ]
-          ]
-        ],
-        "type": "Polygon"
+          [39.8262, 21.4225],
+          [39.6594, 15.2636]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Second Hijrah Route",
+        "stroke": "#00ff00",
+        "stroke-width": 2
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [39.8262, 21.4225],
+          [39.6594, 15.2636]
+        ]
       }
     }
   ]
