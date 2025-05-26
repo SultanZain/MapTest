@@ -63,7 +63,18 @@
         "name": "First Hijrah Route",
         "stroke": "#ff0000",
         "stroke-width": 2,
-        "popupContent": "Route of the first migration to Abyssinia"
+        "popupContent": "Ibn Sa'ad, in his Kitab Tabqaat al-Kubra, briefly mentions the route taken by the Muslim migrants. Ibn Sa'ad says on the authority of Harith ibn al-Fudail that the group boarded one of the two merchant ships from Shuaiba (Yaqut says it was the place where ships (marfa') used to beach for Mecca in the days before Jidda became its port), and paid half Dinar (دينار) each for faring them across the sea.",
+        "References": [
+          [
+            "Ibn Sa'ad, Kitab Tabqat al-Kubra, Volume 1, Parts 1.50.1-3."
+          ],
+          [
+            "Hussein Ahmed Ethiopian Muslims and Islam: A Review Article in Journal of Ethiopian Studies, vol. XXXVII, no. 2, Addis Ababa 2004."
+          ],
+          [
+            "Tatiana Kryuchkova / Victor Porkhomovsky: Encyclopaedia Aethiopica Volume 1. A-C. in ZDMG, vol. 156, Wiesbaden 2006."
+          ]
+        ]
       },
       "geometry": {
         "coordinates": [
