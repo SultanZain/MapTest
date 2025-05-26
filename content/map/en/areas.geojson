@@ -7,7 +7,7 @@
         "id": "makkah",
         "title": "Makkah",
         "name": "Makkah",
-        "marker": "Makkah.ico",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/Makkah.ico",
         "popupContent": "The Holy City Mecca, Where Ka`ba-tul-Allah is located and the Prophet Muhammad S.A.W was born.",
         "events": [
           {
