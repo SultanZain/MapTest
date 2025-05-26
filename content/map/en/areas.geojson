@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "name": "Mecca",
-        "popupContent": "Mecca"
+        "popupContent": "The Holy City Mecca, Where Ka`ba-tul-Allah is located and the Prophet Muhammad S.A.W was born."
       },
       "geometry": {
         "coordinates": [
@@ -47,7 +47,7 @@
       "type": "Feature",
       "properties": {
         "name": "Aksum",
-        "popupContent": "Aksum"
+        "popupContent": "Aksum now a small town, once used to be the capital of Abyssinia (The Kingdom of Aksum)"
       },
       "geometry": {
         "coordinates": [
