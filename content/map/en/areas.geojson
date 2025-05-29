@@ -308,6 +308,23 @@
     {
       "type": "Feature",
       "properties": {
+        "id": "thawr",
+        "name": "Jabal Thawr",
+        "title": "Jabal Thawr",
+        "popupContent": "Jabal Thawr is located south of Mecca and Masjid al-Haram, on road to Yemen. Height of the mountain is 1,405 m.  The fame of this mountain is because of the cave where Hz. Prophet Muhammad ﷺ at the beginning of Hijra (the Immigration) in Laylat al-Mabit sought shelter there from the polytheists.",
+        "year": 622
+      },
+      "geometry": {
+        "coordinates": [
+          39.8498,
+          21.3772
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "shuaybah",
         "name": "Shu'aybah",
         "title": "Shu'aybah",
