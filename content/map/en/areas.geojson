@@ -423,7 +423,6 @@
       "properties": {
         "name": "The Prophet's house",
         "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
         "popupContent": "The Prophet's house is surrounded at night by the Quraysh intent on assassinating him. He recited Yasin and stepped out the house and by the aid of Allah walked passed them unseen. He headed to the house of Abu Bakr Siddiq.<br><br>Location (AHK p.51): The Prophet used to live here with Umm Muminin Khadijah. It is 309m NE from the Ka'ba.<br><br>Date: Thur, 1 Rabi I, 1 AH / 15 Sept, 622 CE"
       }
     },
@@ -439,7 +438,6 @@
       "properties": {
         "name": "The House of Abu Bakr Siddiq",
         "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
         "popupContent": "Having evaded the assassination squad, the Prophet arrived at Abu Bakr Siddiq's house at night. They had made travel preparations two months before. The Prophet and Abu Bakr headed south towards Ghar Thawr to avoid.<br><br>LOC (AHK p. 53): The house was located in the Banu Jumah neighbourhood. Today it is in the Abraj Makkah (The clock Tower complex). The is a mosque on the place of his house called Masjid Abu Bakr. It 435m SSW from the Ka'bah.<br><br>Date: Thur, 1 Rabi I, 3 AH / 15 Sept, 622 CE"
       }
     },
@@ -455,7 +453,6 @@
       "properties": {
         "name": "Ghar Thawr",
         "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
         "popupContent": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuWz1X2SiQH8IYs9QzdW1FK5L5kLRAE_03TmghrUzFgvUX3Ne_-8saBe1KuhYTB5_bx9kZteoiSMpSzOD9OaPAkPgJQzuG0zACvu06Jn-VLDn0ElRPbih7MRua2huNS0PnkmGMCYIM-AUb9pCNz5jXzO9-gbj42ZvoNdP5Pfe7oUABq1KzcFjajH7Sv2ssp92GHX7fgWGrnLw?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>The Prophet and Siddiq evading the hunting party headed south at night and hid in a cave in Mount Thawr. They stayed inside there for three days despite the danger of snakes and scorpions. A search party did arrive but by the aid of Allah they remained unseen.<br><br>LOC (AHK p.56): The house was located in the Banu Jumah neighbourhood. Today it is in the Abraj Makkah (The clock Tower complex). The is a mosque on the place of his house called Masjid Abu Bakr. It 5600m SSE from the Ka'bah.<br><br>Arrival: Thur (N), 1 Rabi I, 1 AH / 15 Sept, 622 CE<br>Dept: Sun (N), 3 Rabi I,  1 AH / 15 Sept, 622 CE<br><br>Ref: Quran 9:40"
       }
     },
@@ -471,7 +468,6 @@
       "properties": {
         "name": "Lower Makkah",
         "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
         "popupContent": "The Prophet and Siddiq after spending all of Friday, Saturday and Sunday in cave, descended from the mountain at night and exited on the south west side of the mountain on foot. Then they started moving west towards the red sea. <br><br>LOC (AHK p.57): It 6km SSE from the Ka'bah.<br><br>Date: Sun (N), 4 Rabi I, 1 AH / 18 Sept, 622 CE"
       }
     },
@@ -487,7 +483,6 @@
       "properties": {
         "name": "Hudaybiyyah",
         "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
         "popupContent": "Date: Sun (N), 4 Rabi I, 1 AH / 18 Sept, 622 CE"
       }
     },
@@ -503,7 +498,6 @@
       "properties": {
         "name": "Asfal Usfan",
         "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png",
         "popupContent": "Location (AKH p. 61): 78 km NW from the Kaba.<br><br>Date: Tru, 6 Rabi I, 1 AH / 20 Sept, 622 CE"
       }
     },
@@ -518,8 +512,7 @@
       },
       "properties": {
         "name": "Ghadir Khum",
-        "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+        "year": 622
       }
     },
     {
@@ -533,8 +526,7 @@
       },
       "properties": {
         "name": "Wadi Liqf",
-        "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+        "year": 622
       }
     },
     {
@@ -548,8 +540,7 @@
       },
       "properties": {
         "name": "Suraqah's pursuit",
-        "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+        "year": 622
       }
     },
     {
@@ -563,8 +554,7 @@
       },
       "properties": {
         "name": "Wadi Qahah",
-        "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+        "year": 622
       }
     },
     {
@@ -578,8 +568,7 @@
       },
       "properties": {
         "name": "Thaniyat al-Gha'ir",
-        "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+        "year": 622
       }
     },
     {
@@ -593,8 +582,7 @@
       },
       "properties": {
         "name": "Wadi Reem",
-        "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+        "year": 622
       },
       "id": 12
     },
@@ -609,8 +597,7 @@
       },
       "properties": {
         "name": "Wadi Aqeeq",
-        "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+        "year": 622
       }
     },
     {
@@ -624,8 +611,7 @@
       },
       "properties": {
         "name": "Quba",
-        "year": 622,
-        "marker": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
+        "year": 622
       }
     },
     {
@@ -783,7 +769,7 @@
       "properties": {
         "name": "Day 0 - Fri - Sun",
         "year": 622,
-        "stroke": "#66A5AD",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
         "stroke-width": 3
       }
@@ -1247,7 +1233,7 @@
       },
       "properties": {
         "name": "Day 1 - Monday",
-        "stroke": "#78B7C5",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
         "stroke-width": 2.155
       }
@@ -1487,7 +1473,7 @@
       "properties": {
         "name": "Day 2 - Tuesday",
         "year": 622,
-        "stroke": "#8AC9CD",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
         "stroke-width": 3
       }
@@ -2212,7 +2198,7 @@
       "properties": {
         "name": "Day 3 - Wednesday",
         "year": 622,
-        "stroke": "#9DDBB5",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
         "stroke-width": 3
       }
@@ -3567,7 +3553,7 @@
       "properties": {
         "name": "Day 4 - Thursday",
         "year": 622,
-        "stroke": "#B0E89E",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -3837,7 +3823,7 @@
       "properties": {
         "name": "Day 5 - Friday",
         "year": 622,
-        "stroke": "#C3F587",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
         "stroke-width": 3
       }
@@ -4092,7 +4078,7 @@
       "properties": {
         "name": "Day 6 - Saturday",
         "year": 622,
-        "stroke": "#D6F270",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
         "stroke-width": 3
       }
@@ -4312,9 +4298,9 @@
       "properties": {
         "name": "Day 7-8: Sun-Mon",
         "year": 622,
-        "stroke": "#E9EF59",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
-        "stroke-width": 2.7
+        "stroke-width": 3
       }
     },
     {
@@ -4437,7 +4423,7 @@
       "properties": {
         "name": "Day 9 - Tuesday",
         "year": 622,
-        "stroke": "#FFF82B",
+        "stroke": "#8b4513",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
