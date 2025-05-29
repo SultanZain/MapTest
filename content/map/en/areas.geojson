@@ -18,13 +18,6 @@
             "eventId": 1
           },
           {
-            "title": "THE PROPHET’S ﷺ CHEST IS SPLIT OPEN",
-            "location": "Makkah",
-            "age": "~4",
-            "year": 575,
-            "eventId": 1
-          },
-          {
             "title": "THE DEATH OF THE MOTHER OF THE PROPHET ﷺ AAMINAH BINT WAHB, AND SUCKLING AT THE HANDS OF UMM AYMAN, HIS WET NURSE",
             "location": "Between Mecca and Medina (near the territory of the tribe of al-Naabighah)",
             "age": "~6",
@@ -205,6 +198,31 @@
         "coordinates": [
           39.8262,
           21.4225
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "banu-sad",
+        "name": "Banu Sa'd Countryside",
+        "title": "House of Bibi Halimah رضي الله عنها",
+        "popupContent": "These are said to be the ruins of Banu Sa’d Village where the house of Bibi Halimah رضي الله عنها was located. Hz. Prophet Muhammad ﷺ spent some years of his childhood here.  The Banu Sa’d was one of the leading royal tribes of Arabia during the Hz. Prophet Muhammad’s ﷺ era.  They were great warriors and fought many battles with Prophet Muhammad ﷺ against enemies of Islam.  Bibi Halima Sadia رضي الله عنها, Hz. Prophet Muhammad’s ﷺ wet nurse, belonged to this tribe. They migrated on the order of Prophet Muhammad ﷺ to Subcontinent, Africa and Europe to fight against Polytheism.",
+        "events": [
+          {
+            "title": "THE PROPHET’S ﷺ CHEST IS SPLIT OPEN",
+            "location": "Banu Sa'd Countryside",
+            "age": "~4",
+            "year": 575,
+            "eventId": 1
+          }
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          40.811951,
+          20.950266
         ],
         "type": "Point"
       }
