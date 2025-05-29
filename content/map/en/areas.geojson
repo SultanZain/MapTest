@@ -18,13 +18,6 @@
             "eventId": 1
           },
           {
-            "title": "THE DEATH OF THE MOTHER OF THE PROPHET ﷺ AAMINAH BINT WAHB, AND SUCKLING AT THE HANDS OF UMM AYMAN, HIS WET NURSE",
-            "location": "Between Mecca and Medina (near the territory of the tribe of al-Naabighah)",
-            "age": "~6",
-            "year": 576,
-            "eventId": 1
-          },
-          {
             "title": "THE PROPHET ﷺ IN THE CARE OF HIS GRANDFATHER ABDUL-MUTALLIB",
             "location": "Makkah",
             "age": "~6",
@@ -226,6 +219,31 @@
         ],
         "type": "Point"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "Al-Abwa",
+        "name": "Al-Abwa near the territory of the tribe of al-Naabighah",
+        "title": "Al-Abwa",
+        "popupContent": "Al-Abwā' is a Hejazi village between Mecca and Medina belonging to the area of Rabigh, on the western coast of Saudi Arabia. The place where the mother of Hazrat Muhammad ﷺ, Aminah bint Wahb ibn Abd Manaf, died.",
+        "events":[
+          {
+            "title": "THE DEATH OF THE MOTHER OF THE PROPHET ﷺ AAMINAH BINT WAHB, AND SUCKLING AT THE HANDS OF UMM AYMAN, HIS WET NURSE",
+            "location": "Between Mecca and Medina (near the territory of the tribe of al-Naabighah)",
+            "age": "~6",
+            "year": 576,
+            "eventId": 1
+          }
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          39.051373,
+          23.103141
+        ],
+        "type": "Point"
+      },
     },
     {
       "type": "Feature",
