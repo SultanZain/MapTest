@@ -227,6 +227,7 @@
         "name": "Al-Abwa near the territory of the tribe of al-Naabighah",
         "title": "Al-Abwa",
         "popupContent": "Al-Abwā' is a Hejazi village between Mecca and Medina belonging to the area of Rabigh, on the western coast of Saudi Arabia. The place where the mother of Hazrat Muhammad ﷺ, Aminah bint Wahb ibn Abd Manaf, died.",
+        "year": 576,
         "events":[
           {
             "title": "THE DEATH OF THE MOTHER OF THE PROPHET ﷺ AAMINAH BINT WAHB, AND SUCKLING AT THE HANDS OF UMM AYMAN, HIS WET NURSE",
@@ -245,6 +246,40 @@
         "type": "Point"
       },
     },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "busra",
+        "name": "Busra",
+        "title": "Busra",
+        "year": 583,
+        "popupContent": "This Structure is believed to be the monastery of Bahira the monk, who prophesied about Hz. Prophet Muhammad ﷺ in his childhood  The Monastery of Bahira is one of the most significant Muslim sites in this area.",
+        "events": [
+          {
+            "title": "THE PROPHET’S ﷺ JOURNEY TO AL-SHAAM AND THE MONK BAHEERA",
+            "location": "Busra, Al-Shaam (Greater Syria)",
+            "age": "~12",
+            "year": 583,
+            "eventId": 1
+          },
+          {
+            "title": "The Prophet Muhammad ﷺ's Second Journey to Syria",
+            "location": "Syria (reaching Busra)",
+            "age": "~25",
+            "year": 596,
+            "eventId": 1
+          }
+        ]
+      
+      },
+      "geometry": {
+        "coordinates": [
+          36.482842,
+          32.518972
+        ],
+        "type": "Point"
+      }
+    }
     {
       "type": "Feature",
       "properties": {
