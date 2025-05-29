@@ -239,15 +239,14 @@
         "type": "Point"
       }
     },
-
     {
       "type": "Feature",
       "properties": {
         "id": "busra",
         "name": "Busra",
         "title": "Busra",
-        "year": 583,
         "popupContent": "This Structure is believed to be the monastery of Bahira the monk, who prophesied about Hz. Prophet Muhammad ﷺ in his childhood  The Monastery of Bahira is one of the most significant Muslim sites in this area.",
+        "year": 583,
         "events": [
           {
             "title": "THE PROPHET’S ﷺ JOURNEY TO AL-SHAAM AND THE MONK BAHEERA",
