@@ -242,66 +242,6 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "busra",
-        "name": "Busra",
-        "title": "Busra",
-        "year": 583,
-        "popupContent": "This Structure is believed to be the monastery of Bahira the monk, who prophesied about Hz. Prophet Muhammad ﷺ in his childhood  The Monastery of Bahira is one of the most significant Muslim sites in this area.",
-        "events": [
-          {
-            "title": "THE PROPHET’S ﷺ JOURNEY TO AL-SHAAM AND THE MONK BAHEERA",
-            "location": "Busra, Al-Shaam (Greater Syria)",
-            "age": "~12",
-            "year": 583,
-            "eventId": 1
-          },
-          {
-            "title": "The Prophet Muhammad ﷺ's Second Journey to Syria",
-            "location": "Syria (reaching Busra)",
-            "age": "~25",
-            "year": 596,
-            "eventId": 1
-          }
-        ]
-      
-      },
-      "geometry": {
-        "coordinates": [
-          36.482842,
-          32.518972
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": "hira",
-        "name": "Cave of Hira (Jabl an-Nur)",
-        "title": "Cave of Hira (Jabl an-Nur)",
-        "popupContent": "The mountain houses the grotto or cave of Hira, which holds tremendous significance for Muslims throughout the world, as the Prophet Muhammad ﷺ is said to have spent a great deal of time in this cave meditating, and it is widely believed that it was here that He ﷺ received his first revelation, which consisted of the first five ayats of Surah Al-Alaq from the angel Hz. Jibra’il عليه اسلام",
-        "year": 610,
-        "events":[
-          {
-            "title": "The First Revelation and the Prophethood of the Prophet Muhammad ﷺ",
-            "location": "Cave of Hira', Makkah",
-            "age": "~40",
-            "year": 610,
-            "eventId": 1
-          }
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          39.85919,
-          21.45735
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "id": "shuaybah",
         "name": "Shu'aybah",
         "title": "Shu'aybah",
