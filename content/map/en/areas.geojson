@@ -769,7 +769,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 0 - Fri - Sun",
         "year": 622,
-        "stroke": "#FFA500",
+        "stroke": "#C0392B",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -1234,7 +1234,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 1 - Monday",
         "year": 622,
-        "stroke": "#FFD700",
+        "stroke": "#F1C40F",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -1474,7 +1474,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 2 - Tuesday",
         "year": 622,
-        "stroke": "#FFBF00",
+        "stroke": "#27AE60",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -2199,7 +2199,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 3 - Wednesday",
         "year": 622,
-        "stroke": "#6B8E23",
+        "stroke": "#27AE60",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -3554,7 +3554,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 4 - Thursday",
         "year": 622,
-        "stroke": "#87CEEB",
+        "stroke": "#8E44AD",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -3824,7 +3824,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 5 - Friday",
         "year": 622,
-        "stroke": "#00BFFF",
+        "stroke": "#E67E22",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -4079,7 +4079,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 6 - Saturday",
         "year": 622,
-        "stroke": "#7851A9",
+        "stroke": "#E74C3C",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -4299,7 +4299,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 7-8: Sun-Mon",
         "year": 622,
-        "stroke": "#DC143C",
+        "stroke": "#16A085",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -4424,7 +4424,7 @@
       "properties": {
         "name": "Hijrah to Madinah - Day 9 - Tuesday",
         "year": 622,
-        "stroke": "#191970",
+        "stroke": "#2C3E50",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
