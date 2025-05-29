@@ -453,7 +453,7 @@
       "properties": {
         "name": "Ghar Thawr",
         "year": 622,
-        "popupContent": "<img src=\"https://mymaps.usercontent.google.com/hostedimage/m/*/3ADbDBKuWz1X2SiQH8IYs9QzdW1FK5L5kLRAE_03TmghrUzFgvUX3Ne_-8saBe1KuhYTB5_bx9kZteoiSMpSzOD9OaPAkPgJQzuG0zACvu06Jn-VLDn0ElRPbih7MRua2huNS0PnkmGMCYIM-AUb9pCNz5jXzO9-gbj42ZvoNdP5Pfe7oUABq1KzcFjajH7Sv2ssp92GHX7fgWGrnLw?authuser=0&fife=s16383\" height=\"200\" width=\"auto\" /><br><br>The Prophet and Siddiq evading the hunting party headed south at night and hid in a cave in Mount Thawr. They stayed inside there for three days despite the danger of snakes and scorpions. A search party did arrive but by the aid of Allah they remained unseen.<br><br>LOC (AHK p.56): The house was located in the Banu Jumah neighbourhood. Today it is in the Abraj Makkah (The clock Tower complex). The is a mosque on the place of his house called Masjid Abu Bakr. It 5600m SSE from the Ka'bah.<br><br>Arrival: Thur (N), 1 Rabi I, 1 AH / 15 Sept, 622 CE<br>Dept: Sun (N), 3 Rabi I,  1 AH / 15 Sept, 622 CE<br><br>Ref: Quran 9:40"
+        "popupContent": "The Prophet and Siddiq evading the hunting party headed south at night and hid in a cave in Mount Thawr. They stayed inside there for three days despite the danger of snakes and scorpions. A search party did arrive but by the aid of Allah they remained unseen.<br><br>LOC (AHK p.56): The house was located in the Banu Jumah neighbourhood. Today it is in the Abraj Makkah (The clock Tower complex). The is a mosque on the place of his house called Masjid Abu Bakr. It 5600m SSE from the Ka'bah.<br><br>Arrival: Thur (N), 1 Rabi I, 1 AH / 15 Sept, 622 CE<br>Dept: Sun (N), 3 Rabi I,  1 AH / 15 Sept, 622 CE<br><br>Ref: Quran 9:40"
       }
     },
     {
@@ -767,11 +767,11 @@
         ]
       },
       "properties": {
-        "name": "Day 0 - Fri - Sun",
+        "name": "Hijrah to Madinah - Day 0 - Fri - Sun",
         "year": 622,
-        "stroke": "#8b4513",
+        "stroke": "#FFA500",
         "stroke-opacity": 1,
-        "stroke-width": 3
+        "stroke-width": 4
       }
     },
     {
@@ -1232,10 +1232,11 @@
         ]
       },
       "properties": {
-        "name": "Day 1 - Monday",
-        "stroke": "#8b4513",
+        "name": "Hijrah to Madinah - Day 1 - Monday",
+        "year": 622,
+        "stroke": "#FFD700",
         "stroke-opacity": 1,
-        "stroke-width": 2.155
+        "stroke-width": 4
       }
     },
     {
@@ -1471,11 +1472,11 @@
         ]
       },
       "properties": {
-        "name": "Day 2 - Tuesday",
+        "name": "Hijrah to Madinah - Day 2 - Tuesday",
         "year": 622,
-        "stroke": "#8b4513",
+        "stroke": "#FFBF00",
         "stroke-opacity": 1,
-        "stroke-width": 3
+        "stroke-width": 4
       }
     },
     {
@@ -2196,11 +2197,11 @@
         ]
       },
       "properties": {
-        "name": "Day 3 - Wednesday",
+        "name": "Hijrah to Madinah - Day 3 - Wednesday",
         "year": 622,
-        "stroke": "#8b4513",
+        "stroke": "#6B8E23",
         "stroke-opacity": 1,
-        "stroke-width": 3
+        "stroke-width": 4
       }
     },
     {
@@ -3551,9 +3552,9 @@
         ]
       },
       "properties": {
-        "name": "Day 4 - Thursday",
+        "name": "Hijrah to Madinah - Day 4 - Thursday",
         "year": 622,
-        "stroke": "#8b4513",
+        "stroke": "#87CEEB",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
@@ -3821,11 +3822,11 @@
         ]
       },
       "properties": {
-        "name": "Day 5 - Friday",
+        "name": "Hijrah to Madinah - Day 5 - Friday",
         "year": 622,
-        "stroke": "#8b4513",
+        "stroke": "#00BFFF",
         "stroke-opacity": 1,
-        "stroke-width": 3
+        "stroke-width": 4
       }
     },
     {
@@ -4076,11 +4077,11 @@
         ]
       },
       "properties": {
-        "name": "Day 6 - Saturday",
+        "name": "Hijrah to Madinah - Day 6 - Saturday",
         "year": 622,
-        "stroke": "#8b4513",
+        "stroke": "#7851A9",
         "stroke-opacity": 1,
-        "stroke-width": 3
+        "stroke-width": 4
       }
     },
     {
@@ -4296,11 +4297,11 @@
         ]
       },
       "properties": {
-        "name": "Day 7-8: Sun-Mon",
+        "name": "Hijrah to Madinah - Day 7-8: Sun-Mon",
         "year": 622,
-        "stroke": "#8b4513",
+        "stroke": "#DC143C",
         "stroke-opacity": 1,
-        "stroke-width": 3
+        "stroke-width": 4
       }
     },
     {
@@ -4421,9 +4422,9 @@
         ]
       },
       "properties": {
-        "name": "Day 9 - Tuesday",
+        "name": "Hijrah to Madinah - Day 9 - Tuesday",
         "year": 622,
-        "stroke": "#8b4513",
+        "stroke": "#191970",
         "stroke-opacity": 1,
         "stroke-width": 4
       }
