@@ -201,6 +201,7 @@
         "id": "banu-sad",
         "name": "Banu Sa'd Countryside",
         "title": "House of Bibi Halimah رضي الله عنها",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/ruins-2.ico",
         "popupContent": "These are said to be the ruins of Banu Sa’d Village where the house of Bibi Halimah رضي الله عنها was located. Hz. Prophet Muhammad ﷺ spent some years of his childhood here.  The Banu Sa’d was one of the leading royal tribes of Arabia during the Hz. Prophet Muhammad’s ﷺ era.  They were great warriors and fought many battles with Prophet Muhammad ﷺ against enemies of Islam.  Bibi Halima Sadia رضي الله عنها, Hz. Prophet Muhammad’s ﷺ wet nurse, belonged to this tribe. They migrated on the order of Prophet Muhammad ﷺ to Subcontinent, Africa and Europe to fight against Polytheism.",
         "events": [
           {
@@ -226,9 +227,10 @@
         "id": "Al-Abwa",
         "name": "Al-Abwa near the territory of the tribe of al-Naabighah",
         "title": "Al-Abwa",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/grave.ico",
         "popupContent": "Al-Abwā' is a Hejazi village between Mecca and Medina belonging to the area of Rabigh, on the western coast of Saudi Arabia. The place where the mother of Hazrat Muhammad ﷺ, Aminah bint Wahb ibn Abd Manaf, died.",
         "year": 576,
-        "events":[
+        "events": [
           {
             "title": "THE DEATH OF THE MOTHER OF THE PROPHET ﷺ AAMINAH BINT WAHB, AND SUCKLING AT THE HANDS OF UMM AYMAN, HIS WET NURSE",
             "location": "Between Mecca and Medina (near the territory of the tribe of al-Naabighah)",
@@ -252,6 +254,7 @@
         "id": "busra",
         "name": "Busra",
         "title": "Busra",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/cathedral.ico",
         "popupContent": "This Structure is believed to be the monastery of Bahira the monk, who prophesied about Hz. Prophet Muhammad ﷺ in his childhood  The Monastery of Bahira is one of the most significant Muslim sites in this area.",
         "year": 583,
         "events": [
@@ -285,9 +288,10 @@
         "id": "hira",
         "name": "Cave of Hira (Jabl an-Nur)",
         "title": "Cave of Hira (Jabl an-Nur)",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/cave.ico",
         "popupContent": "The mountain houses the grotto or cave of Hira, which holds tremendous significance for Muslims throughout the world, as the Prophet Muhammad ﷺ is said to have spent a great deal of time in this cave meditating, and it is widely believed that it was here that He ﷺ received his first revelation, which consisted of the first five ayats of Surah Al-Alaq from the angel Hz. Jibra’il عليه اسلام",
         "year": 610,
-        "events":[
+        "events": [
           {
             "title": "The First Revelation and the Prophethood of the Prophet Muhammad ﷺ",
             "location": "Cave of Hira', Makkah",
@@ -311,13 +315,14 @@
         "id": "thawr",
         "name": "Jabal Thawr",
         "title": "Jabal Thawr",
-        "popupContent": "Jabal Thawr is located south of Mecca and Masjid al-Haram, on road to Yemen. Height of the mountain is 1,405 m.  The fame of this mountain is because of the cave where Hz. Prophet Muhammad ﷺ at the beginning of Hijra (the Immigration) in Laylat al-Mabit sought shelter there from the polytheists.",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/cave.ico",
+        "popupContent": "The Prophet and Siddiq evading the hunting party headed south at night and hid in a cave in Mount Thawr. They stayed inside there for three days despite the danger of snakes and scorpions. A search party did arrive but by the aid of Allah they remained unseen.<br><br>LOC (AHK p.56): The house was located in the Banu Jumah neighbourhood. Today it is in the Abraj Makkah (The clock Tower complex). The is a mosque on the place of his house called Masjid Abu Bakr. It 5600m SSE from the Ka'bah.<br><br>Arrival: Thur (N), 1 Rabi I, 1 AH / 15 Sept, 622 CE<br>Dept: Sun (N), 3 Rabi I,  1 AH / 15 Sept, 622 CE<br><br>Ref: Quran 9:40",
         "year": 622
       },
       "geometry": {
         "coordinates": [
-          39.8498,
-          21.3772
+          39.849753,
+          21.377214
         ],
         "type": "Point"
       }
@@ -329,6 +334,7 @@
         "name": "Shu'aybah",
         "title": "Shu'aybah",
         "year": 613,
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/harbor.ico",
         "popupContent": "Shu'aybah (An ancient Port Before Jeddah)"
       },
       "geometry": {
@@ -359,10 +365,12 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "Adulis",
+        "id": "aksum",
         "name": "Aksum",
         "year": 613,
-        "popupContent": "Aksum now a small town, once used to be the capital of Abyssinia (The Kingdom of Aksum)"
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/aksum.ico",
+        "popupContent": "Aksum now a small town, once used to be the capital of Abyssinia (The Kingdom of Aksum)",
+        "title": "Aksum - Habshah"
       },
       "geometry": {
         "coordinates": [
@@ -432,7 +440,7 @@
         "type": "Point",
         "coordinates": [
           39.82384,
-          21.41937 
+          21.41937
         ]
       },
       "properties": {
@@ -446,23 +454,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          39.849753,
-          21.377214 
-        ]
-      },
-      "properties": {
-        "name": "Ghar Thawr",
-        "year": 622,
-        "popupContent": "The Prophet and Siddiq evading the hunting party headed south at night and hid in a cave in Mount Thawr. They stayed inside there for three days despite the danger of snakes and scorpions. A search party did arrive but by the aid of Allah they remained unseen.<br><br>LOC (AHK p.56): The house was located in the Banu Jumah neighbourhood. Today it is in the Abraj Makkah (The clock Tower complex). The is a mosque on the place of his house called Masjid Abu Bakr. It 5600m SSE from the Ka'bah.<br><br>Arrival: Thur (N), 1 Rabi I, 1 AH / 15 Sept, 622 CE<br>Dept: Sun (N), 3 Rabi I,  1 AH / 15 Sept, 622 CE<br><br>Ref: Quran 9:40"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           39.840408,
-          21.368344 
+          21.368344
         ]
       },
       "properties": {
@@ -477,13 +470,15 @@
         "type": "Point",
         "coordinates": [
           39.62576,
-          21.44195 
+          21.44195
         ]
       },
       "properties": {
         "name": "Hudaybiyyah",
         "year": 622,
-        "popupContent": "Date: Sun (N), 4 Rabi I, 1 AH / 18 Sept, 622 CE"
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/camp.ico",
+        "popupContent": "Date: Sun (N), 4 Rabi I, 1 AH / 18 Sept, 622 CE",
+        "title": "Hudaybiyyah"
       }
     },
     {
@@ -492,13 +487,14 @@
         "type": "Point",
         "coordinates": [
           39.312397,
-          21.932639 
+          21.932639
         ]
       },
       "properties": {
         "name": "Asfal Usfan",
         "year": 622,
-        "popupContent": "Location (AKH p. 61): 78 km NW from the Kaba.<br><br>Date: Tru, 6 Rabi I, 1 AH / 20 Sept, 622 CE"
+        "popupContent": "Location (AKH p. 61): 78 km NW from the Kaba.<br><br>Date: Tru, 6 Rabi I, 1 AH / 20 Sept, 622 CE",
+        "title": ""
       }
     },
     {
@@ -507,12 +503,13 @@
         "type": "Point",
         "coordinates": [
           39.2078888888889,
-          22.7432777777778 
+          22.7432777777778
         ]
       },
       "properties": {
         "name": "Ghadir Khum",
-        "year": 622
+        "year": 622,
+        "title": "Ghadir Khum"
       }
     },
     {
@@ -521,11 +518,12 @@
         "type": "Point",
         "coordinates": [
           39.2886,
-          23.095025 
+          23.095025
         ]
       },
       "properties": {
         "name": "Wadi Liqf",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/valley.ico",
         "year": 622
       }
     },
@@ -535,11 +533,12 @@
         "type": "Point",
         "coordinates": [
           39.1908202,
-          22.4497338 
+          22.4497338
         ]
       },
       "properties": {
         "name": "Suraqah's pursuit",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/sword.ico",
         "year": 622
       }
     },
@@ -549,11 +548,12 @@
         "type": "Point",
         "coordinates": [
           39.2743390000001,
-          23.740264 
+          23.740264
         ]
       },
       "properties": {
         "name": "Wadi Qahah",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/valley.ico",
         "year": 622
       }
     },
@@ -563,7 +563,7 @@
         "type": "Point",
         "coordinates": [
           39.2896969999999,
-          23.918769 
+          23.918769
         ]
       },
       "properties": {
@@ -577,11 +577,12 @@
         "type": "Point",
         "coordinates": [
           39.539392,
-          24.055444 
+          24.055444
         ]
       },
       "properties": {
         "name": "Wadi Reem",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/valley.ico",
         "year": 622
       },
       "id": 12
@@ -592,11 +593,12 @@
         "type": "Point",
         "coordinates": [
           39.5586940000001,
-          24.316006 
+          24.316006
         ]
       },
       "properties": {
         "name": "Wadi Aqeeq",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/valley.ico",
         "year": 622
       }
     },
@@ -606,11 +608,12 @@
         "type": "Point",
         "coordinates": [
           39.6172839999999,
-          24.439251 
+          24.439251
         ]
       },
       "properties": {
         "name": "Quba",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/quba.ico",
         "year": 622
       }
     },
