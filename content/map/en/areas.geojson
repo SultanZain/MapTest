@@ -13,6 +13,7 @@
           {
             "title": "THE BIRTH OF THE BEST OF CREATION, OUR PROPHET MUHAMMAD, AL-MUSTAFA ﷺ",
             "location": "Mecca",
+            "date": "Rabi' al-Awwal, 571 CE (Year of the Elephant)",
             "age": "0",
             "year": 571,
             "eventId": 1
@@ -20,6 +21,7 @@
           {
             "title": "THE PROPHET ﷺ IN THE CARE OF HIS GRANDFATHER ABDUL-MUTALLIB",
             "location": "Makkah",
+            "date": "576 CE / 48 BH",
             "age": "~6",
             "year": 576,
             "eventId": 2
@@ -27,6 +29,7 @@
           {
             "title": "DEATH OF ABD AL-MUTALLIB (GRANDFATHER OF THE PROPHET ﷺ)",
             "location": "Mecca",
+            "date": "578 CE / 46 BH",
             "age": "~8",
             "year": 578,
             "eventId": 1
@@ -34,13 +37,18 @@
           {
             "title": "THE PROPHET ﷺ UNDER THE WING OF HIS UNCLE ABOO TAALIB",
             "location": "Makkah",
+            "date": "578 CE / 46 BH",
             "age": "~8",
             "year": 578,
             "eventId": 2
           },
           {
             "title": "THE SACRILEGIOUS WAR (AL-FIJAAR)",
-            "location": "Near Makkah (various locations including ‘Ukaazh)",
+            "location": "Near Makkah (various locations including ‘Ukaaz)",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/%D8%B3%D9%88%D9%82_%D8%B9%D9%83%D8%A7%D8%B8.JPG",
+            "mediaCaption": "Map of the historic Souk 'Ukaaz from the book Sahih al-Akhbar",
+            "mediaCredit": "ابن بليهد",
+            "date": "585 CE / 39 BH",
             "age": "~14-15 (some reports say ~20)",
             "year": 585,
             "eventId": 1
@@ -48,6 +56,7 @@
           {
             "title": "THE OATH OF THE RIGHTEOUS (HILF AL-FUDOOL)",
             "location": "Makkah",
+            "date": "591 CE / 33 BH",
             "age": "~25",
             "year": 591,
             "eventId": 1
@@ -55,6 +64,7 @@
           {
             "title": "The Marriage of the Prophet Muhammad ﷺ to Khadijah bint Khuwaylid (May Allah be pleased with her)",
             "location": "Makkah",
+            "date": "595 CE / 28 BH",
             "age": "Differing accounts (~25-30)",
             "year": 595,
             "eventId": 1
@@ -62,20 +72,15 @@
           {
             "title": "The Prophet Muhammad ﷺ Places the Black Stone in its Place in the Ka'bah",
             "location": "Makkah",
+            "date": "605 CE / 18 BH",
             "age": "~35",
             "year": 605,
             "eventId": 1
           },
           {
-            "title": "The First Revelation and the Prophethood of the Prophet Muhammad ﷺ",
-            "location": "Cave of Hira', Makkah",
-            "age": "~40",
-            "year": 610,
-            "eventId": 1
-          },
-          {
             "title": "The Cessation of Revelation (Fatra) and the Revelation of Surah Ad-Duha",
             "location": "Makkah",
+            "date": "610 CE / Shawwal, 13 BH",
             "age": "~40",
             "year": 610,
             "eventId": 2
@@ -83,6 +88,7 @@
           {
             "title": "The First People to Believe in Allah and His Messenger ﷺ",
             "location": "Makkah",
+            "date": "610 CE / Shawwal, 13 BH",
             "age": "~40 (at the time of the first believers)",
             "year": 610,
             "eventId": 3
@@ -90,6 +96,7 @@
           {
             "title": "The Persecution of the Companions by the Quraysh in the Early Days of Islam",
             "location": "Mecca",
+            "date": "613 CE / 9 BH",
             "age": "~ 44",
             "year": 613,
             "eventId": 1
@@ -97,6 +104,7 @@
           {
             "title": "Quraysh Asks Abu Talib to Stop the Messenger of Allah ﷺ",
             "location": "Mecca",
+            "date": "9 BH / 613 CE",
             "age": "~ 44",
             "year": 613,
             "eventId": 2
@@ -104,6 +112,7 @@
           {
             "title": "The Islam of Hamza ibn Abd al-Muttalib (may Allah be pleased with him)",
             "location": "Mecca",
+            "date": "Late 7 BH / 615 CE",
             "age": "~ 46",
             "year": 615,
             "eventId": 2
@@ -111,6 +120,7 @@
           {
             "title": "The Islam of Umar (may Allah be pleased with him)",
             "location": "Mecca",
+            "date": "Dhul-Hijjah 7 BH / 616 CE",
             "age": "46",
             "year": 616,
             "eventId": 1
@@ -118,6 +128,7 @@
           {
             "title": "The Islam of At-Tufail ibn Amr Ad-Dausi (may Allah be pleased with him)",
             "location": "Mecca",
+            "date": "6 BH / 616 CE",
             "age": "47",
             "year": 616,
             "eventId": 2
@@ -125,6 +136,8 @@
           {
             "title": "The Siege of Quraysh on the Muslims in Shi'b Abi Talib",
             "location": "Shi'b Abi Talib, Mecca",
+            "date": "Muharram 6 BH / 616 CE",
+            "image": "https://www.islamiclandmarks.com/wp-content/uploads/2014/04/Location-of-the-Valley-of-Abu-Talib-in-Makkah-740x456.jpg",
             "age": "47",
             "year": 616,
             "eventId": 3
@@ -132,6 +145,8 @@
           {
             "title": "Quraysh Annuls the Document of Boycott",
             "location": "Shi'b Abi Talib, Mecca",
+            "date": "Muharram 3 BH / 619 CE",
+            "image": "https://www.islamiclandmarks.com/wp-content/uploads/2014/04/Location-of-the-Valley-of-Abu-Talib-in-Makkah-740x456.jpg",
             "age": "49",
             "year": 619,
             "eventId": 1
@@ -139,27 +154,15 @@
           {
             "title": "The Death of Umm al-Mu'minin Khadijah bint Khuwaylid (may Allah be pleased with her)",
             "location": "Mecca",
+            "date": "Ramadan 3 BH / 620 CE",
             "age": "50",
             "year": 620,
             "eventId": 1
           },
           {
-            "title": "The Prophet's ﷺ Journey to Ta'if",
-            "location": "Ta'if, Mecca",
-            "age": "50",
-            "year": 620,
-            "eventId": 2
-          },
-          {
-            "title": "The Islam of the Jinn and Their Arrival to the Prophet ﷺ",
-            "location": "Nakhlah, Mecca",
-            "age": "50",
-            "year": 620,
-            "eventId": 3
-          },
-          {
             "title": "The Death of Abu Talib, the Prophet's ﷺ Uncle",
             "location": "Mecca",
+            "date": "Shawwal 3 BH / 620 CE",
             "age": "50",
             "year": 620,
             "eventId": 4
@@ -167,6 +170,7 @@
           {
             "title": "The Prophet's ﷺ Marriage to Sawdah bint Zam'ah (may Allah be pleased with her)",
             "location": "Mecca",
+            "date": "Shawwal 3 BH / 620 CE",
             "age": "50",
             "year": 620,
             "eventId": 5
@@ -174,6 +178,7 @@
           {
             "title": "The Beginning of the Ansar's Entry into Islam",
             "location": "Mecca",
+            "date": "Dhul-Hijjah 3 BH / 620 CE",
             "age": "50",
             "year": 620,
             "eventId": 6
@@ -181,9 +186,34 @@
           {
             "title": "The Prophet's ﷺ Marriage to Aisha bint Abu Bakr As-Siddiq (may Allah be pleased with them both)",
             "location": "Mecca (Marriage Contract)",
+            "date": "Muharram 2 BH / 620 CE",
             "age": "50",
             "year": 620,
             "eventId": 7
+          },
+          {
+            "title": "The Night Journey (Isra) and Ascension (Mi'raj) and the Obligation of the Five Prayers",
+            "location": "Mecca (beginning), Jerusalem, Sidrat al-Muntaha",
+            "date": "1 BH / 621 CE",
+            "age": "51",
+            "year": 621,
+            "eventId": 2
+          },
+          {
+            "title": "The Migration of Abu Salama and Umm Salama (May Allah be pleased with them)",
+            "location": "Mecca, Medina, Al-Tan'im",
+            "date": "1 BH / Muharram / 621 CE",
+            "age": "52",
+            "year": 621,
+            "eventId": 3
+          },
+          {
+            "title": "The Miracle of the Splitting of the Moon",
+            "location": "Mecca",
+            "date": "0 AH / 622 CE",
+            "age": "52",
+            "year": 622,
+            "eventId": 2
           }
         ]
       },
@@ -207,6 +237,7 @@
           {
             "title": "THE PROPHET’S ﷺ CHEST IS SPLIT OPEN",
             "location": "Banu Sa'd Countryside",
+            "date": "575 CE / 49 BH",
             "age": "~4",
             "year": 575,
             "eventId": 1
@@ -234,6 +265,7 @@
           {
             "title": "THE DEATH OF THE MOTHER OF THE PROPHET ﷺ AAMINAH BINT WAHB, AND SUCKLING AT THE HANDS OF UMM AYMAN, HIS WET NURSE",
             "location": "Between Mecca and Medina (near the territory of the tribe of al-Naabighah)",
+            "date": "576 CE / 48 BH",
             "age": "~6",
             "year": 576,
             "eventId": 1
@@ -261,6 +293,7 @@
           {
             "title": "THE PROPHET’S ﷺ JOURNEY TO AL-SHAAM AND THE MONK BAHEERA",
             "location": "Busra, Al-Shaam (Greater Syria)",
+            "date": "583 CE / 42 BH",
             "age": "~12",
             "year": 583,
             "eventId": 1
@@ -268,6 +301,7 @@
           {
             "title": "The Prophet Muhammad ﷺ's Second Journey to Syria",
             "location": "Syria (reaching Busra)",
+            "date": "596 CE / Dhul Hijjah, 28 BH",
             "age": "~25",
             "year": 596,
             "eventId": 1
@@ -295,6 +329,7 @@
           {
             "title": "The First Revelation and the Prophethood of the Prophet Muhammad ﷺ",
             "location": "Cave of Hira', Makkah",
+            "date": "610 CE / Ramadan, 13 BH",
             "age": "~40",
             "year": 610,
             "eventId": 1
@@ -305,6 +340,130 @@
         "coordinates": [
           39.85919,
           21.45735
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "taif",
+        "name": "Taif",
+        "title": "Taif",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/taif.ico",
+        "popupContent": "There is a belief that Taif is indirectly referred to in Quran 43:31.[5] The city was visited by the Islamic prophet Muhammad, sometime in the early 7th century, and was inhabited by the tribe of Banu Thaqif. It is still inhabited to this day by their descendants.",
+        "year": 620,
+        "events":[
+          {
+            "title": "The Prophet's ﷺ Journey to Ta'if",
+            "location": "Ta'if, Mecca",
+            "date": "Shawwal 3 BH / 620 CE",
+            "age": "50",
+            "year": 620,
+            "eventId": 2
+          }
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          40.40611111,
+          21.27509444
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nakhla",
+        "name": "Nakhlah",
+        "title": "Nakhlah",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/valley.ico",
+        "popupContent": "Wādī Nakhlah is an area in the Hejazi region of Saudi Arabia between the cities of Mecca and Ta'if, which serves as a Miqat (Boundary) for the Islamic Ḥaram of Mecca.",
+        "year": 620,
+        "events":[
+          {
+            "title": "The Islam of the Jinn and Their Arrival to the Prophet ﷺ",
+            "location": "Nakhlah, Mecca",
+            "date": "Shawwal 3 BH / 620 CE",
+            "age": "50",
+            "year": 620,
+            "eventId": 3
+          }
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          39.897473,
+          22.497729
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "aqabah",
+        "name": "Al Aqabah",
+        "title": "Al Aqabah",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/valley.ico",
+        "popupContent": "It preceded the Hijrah, or migration of Muhammad and his supporters from Mecca, where they were persecuted, to Medina, where Muhammad became ruler. The pledge occurred in 622 CE at a mountain pass (al-ʿaqabah) five kilometers from Mecca.",
+        "year": 621,
+        "events":[
+          {
+            "title": "The First Pledge of Aqabah",
+            "location": "Aqabah, Mecca",
+	          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A9.jpeg/",
+            "mediaCaption": "Bay'ah Mosque, also known as Aqabah Mosque built at the site of al-Bay'ah, i.e. the place where the Islamic prophet Muhammad met with the Ansar (the supporters), and they took the pledge ('bay'ah', hence the name) of 'Aqaba.",
+            "date": "Dhul-Hijjah 2 BH / 621 CE",
+            "age": "52",
+            "year": 621,
+            "eventId": 1
+          },
+          {
+            "title": "The Second Pledge of Aqabah",
+            "location": "Shi'b al-Aqabah, Mecca",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/%D9%85%D8%B3%D8%AC%D8%AF_%D8%A7%D9%84%D8%A8%D9%8A%D8%B9%D8%A9.jpeg/",
+            "mediaCaption": "Bay'ah Mosque, also known as Aqabah Mosque built at the site of al-Bay'ah, i.e. the place where the Islamic prophet Muhammad met with the Ansar (the supporters), and they took the pledge ('bay'ah', hence the name) of 'Aqaba.",
+            "date": "1 BH / Dhu al-Hijjah / 622 CE",
+            "age": "52",
+            "year": 622,
+            "eventId": 1
+          }
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          39.8675,
+          21.42472222
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "medina",
+        "name": "Madinah Al-Taybah",
+        "title": "Madinah Al-Taybah",
+        "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/Madinah.ico",
+        "popupContent": "The Prophet and Siddiq evading the hunting party headed south at night and hid in a cave in Mount Thawr. They stayed inside there for three days despite the danger of snakes and scorpions. A search party did arrive but by the aid of Allah they remained unseen.<br><br>LOC (AHK p.56): The house was located in the Banu Jumah neighbourhood. Today it is in the Abraj Makkah (The clock Tower complex). The is a mosque on the place of his house called Masjid Abu Bakr. It 5600m SSE from the Ka'bah.<br><br>Arrival: Thur (N), 1 Rabi I, 1 AH / 15 Sept, 622 CE<br>Dept: Sun (N), 3 Rabi I,  1 AH / 15 Sept, 622 CE<br><br>Ref: Quran 9:40",
+        "year": 621,
+        "events":[
+          {
+            "title": "The Spread of Islam in Yathrib After the First Pledge of Aqabah",
+            "location": "Yathrib (Medina)",
+            "date": "1 BH / Muharram / 621 CE",
+            "age": "52",
+            "year": 621,
+            "eventId": 4
+          }
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          39.61,
+          24.47
         ],
         "type": "Point"
       }
@@ -370,7 +529,25 @@
         "year": 613,
         "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/aksum.ico",
         "popupContent": "Aksum now a small town, once used to be the capital of Abyssinia (The Kingdom of Aksum)",
-        "title": "Aksum - Habshah"
+        "title": "Aksum - Habshah",
+        "events": [
+          {
+            "title": "The First Migration to Abyssinia",
+            "location": "Abyssinia (present-day Ethiopia)",
+            "date": "Rajab 8 BH / 615 CE",
+            "age": "~ 45",
+            "year": 615,
+            "eventId": 1
+          },
+          {
+            "title": "The Second Migration to Abyssinia",
+            "location": "Abyssinia (present-day Ethiopia)",
+            "date": "Rajab 7 BH / 615 CE",
+            "age": "~ 46",
+            "year": 615,
+            "eventId": 3
+          }
+        ]
       },
       "geometry": {
         "coordinates": [
