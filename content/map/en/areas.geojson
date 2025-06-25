@@ -447,12 +447,12 @@
         "name": "Madinah Al-Taybah",
         "title": "Madinah Al-Taybah",
         "marker": "https://raw.githubusercontent.com/SultanZain/MapTest/refs/heads/main/Madinah.ico",
-        "popupContent": "The Prophet and Siddiq evading the hunting party headed south at night and hid in a cave in Mount Thawr. They stayed inside there for three days despite the danger of snakes and scorpions. A search party did arrive but by the aid of Allah they remained unseen.<br><br>LOC (AHK p.56): The house was located in the Banu Jumah neighbourhood. Today it is in the Abraj Makkah (The clock Tower complex). The is a mosque on the place of his house called Masjid Abu Bakr. It 5600m SSE from the Ka'bah.<br><br>Arrival: Thur (N), 1 Rabi I, 1 AH / 15 Sept, 622 CE<br>Dept: Sun (N), 3 Rabi I,  1 AH / 15 Sept, 622 CE<br><br>Ref: Quran 9:40",
+        "popupContent": "Madinah has been inhabited at least 1500 years before the Hijra, or approximately the 9th century BCE. By the fourth century, Arab tribes began to encroach from Yemen, and there were three prominent Jewish tribes that inhabited the city around the time of Prophet Muhammad (S.A.W) : the Banu Qaynuqa, the Banu Qurayza, and Banu Nadir.",
         "year": 621,
         "events":[
           {
-            "title": "The Spread of Islam in Yathrib After the First Pledge of Aqabah",
-            "location": "Yathrib (Medina)",
+            "title": "The Spread of Islam in Madinah After the First Pledge of Aqabah",
+            "location": "Madinah",
             "date": "1 BH / Muharram / 621 CE",
             "age": "52",
             "year": 621,
